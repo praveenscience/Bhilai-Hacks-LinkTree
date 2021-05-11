@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans";
   background-color: #9dbf9e;
-  background-image: url(https://www.saintandrehome.org/wp-content/uploads/2015/04/light-green-tree-bg-1024x683.jpg);
+  background-image: url("https://images2.imgbox.com/7f/14/BTRmiHEi_o.jpg");
 }
 h1,
 h2,
@@ -10,6 +10,7 @@ h3,
 .h2,
 .h3 {
   font-family: "Montserrat";
+  text-align: center;
 }
 .list-group-item + .list-group-item,
 .list-group-item-action,
@@ -34,4 +35,7 @@ h3,
 }
 .logo {
   max-width: 100px;
+}
+p{
+  text-align: center; 
 }
