@@ -13,3 +13,6 @@ h3,
 .list-group-item-action {
   background-color: #d0d6b5;
 }
+.logo {
+  max-width: 100px;
+}
